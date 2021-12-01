@@ -26,15 +26,15 @@ You already know the world is facing with such a risk pace and so do the disease
         Dataset has been procured from kaggle, dataset consists of 13 attributes and 1 target variable. Dataset has 5 continous and 8 discrete values. Further description about the dataset is in the Description.txt file
 
 * 'age': 			Continuous variable
-*'anaemia': 			Categorical variable
+* 'anaemia': 			Categorical variable
 * 'creatinine_phosphokinase': 	Continuous variable
-*'diabetes': 			Categorical variable
-*'ejection_fraction': 		Continuous variable
+* 'diabetes': 			Categorical variable
+* 'ejection_fraction': 		Continuous variable
 * 'high_blood_pressure': 	Categorical variable
-*'platelets': 			Continuous variable
-*'serum_creatinine': 		Continuous variable
+* 'platelets': 			Continuous variable
+* 'serum_creatinine': 		Continuous variable
 * 'serum_sodium': 		Continuous variable
 * 'sex': 			Categorical variable
 * 'smoking': 			Categorical variable
-*'time': 			Continuous variable
+* 'time': 			Continuous variable
 * 'DEATH_EVENT': 		Categorical variable
